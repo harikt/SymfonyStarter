@@ -10,6 +10,7 @@ Entities
     entities/first-resource
     entities/manage-your-entity
     entities/configure-your-routes
+    entities/configure-admin-menu
 
 .. include:: /cookbook/entities/map.rst.inc
 
